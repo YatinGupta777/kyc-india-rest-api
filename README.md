@@ -3,7 +3,7 @@
 
 ## Overview
 
-This documentation describes KYC India API v2.0. The postman collection can be found at this [link](https://www.getpostman.com/collections/e83a04bf0e906d5f1581).
+This documentation describes KYC India API v2.0. The postman collection can be found at this [link](https://www.getpostman.com/collections/e5aefeafd4aa1a52af56).
 
 - [HyperVerge India KYC API Documentation](#hyperverge-india-kyc-api-documentation)
 	- [Overview](#overview)
